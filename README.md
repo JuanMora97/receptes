@@ -1,2 +1,0 @@
-# receptes
-Trabajo de clase
